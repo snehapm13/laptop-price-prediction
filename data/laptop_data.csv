@@ -1,0 +1,126 @@
+Brand,Model,Type,Year,Screen_Size_Inches,Screen_Resolution,CPU,RAM_GB,Storage,GPU,Operating_System,Weight_KG,Price_INR
+HP,HP 15s,Notebook,2026,17.3,1920x1080,Intel Core i9,8,2TB SSD,Intel Iris Xe Graphics,Windows 11,2.1,158520
+HP,HP Pavilion,Ultrabook,2022,16.0,3840x2160,Intel Core i3,16,512GB SSD,NVIDIA GeForce RTX 3050,Windows 11,1.86,99557
+Lenovo,Lenovo Legion,2 in 1 Convertible,2023,13.3,1920x1080,Intel Core i9,8,1TB SSD,Apple Integrated GPU,Windows 10,1.26,153885
+Acer,Acer Aspire,Workstation,2026,15.6,3840x2160,Intel Core i5,16,256GB SSD,NVIDIA GeForce GTX 1650,Linux,2.61,108925
+ASUS,ASUS VivoBook,Gaming,2021,16.0,1920x1080,AMD Ryzen 3,16,512GB SSD,Intel UHD Graphics,Windows 10,1.87,69666
+Lenovo,Lenovo Yoga,Ultrabook,2023,17.3,1920x1080,AMD Ryzen 3,8,2TB SSD,NVIDIA GeForce RTX 4060,Windows 11,2.01,114010
+Samsung,Samsung Galaxy Book3,Notebook,2023,15.6,1920x1200,Apple M3,64,512GB SSD + 1TB HDD,NVIDIA GeForce RTX 4060,Windows 10,1.49,214525
+MSI,MSI GF63,2 in 1 Convertible,2021,16.0,1920x1200,Apple M2,8,1TB SSD,NVIDIA GeForce RTX 4060,Windows 10,2.6,160532
+Lenovo,Lenovo Yoga,Workstation,2022,16.0,3840x2160,Apple M1,8,1TB SSD,NVIDIA GeForce RTX 3050,Windows 11,1.78,126593
+Samsung,Samsung Galaxy Book,Notebook,2021,17.3,2560x1440,Intel Core i7,32,512GB SSD,NVIDIA GeForce RTX 4060,Windows 10,1.75,168763
+Acer,Acer Aspire,Gaming,2026,13.3,2560x1600,Apple M3,16,1TB SSD,NVIDIA GeForce RTX 3050,Windows 11,1.84,205433
+Acer,Acer Swift,Ultrabook,2025,17.3,3840x2160,Apple M3,32,2TB SSD,AMD Radeon Graphics,Windows 11,1.36,215492
+Dell,Dell Latitude,Ultrabook,2024,13.3,1920x1200,AMD Ryzen 5,4,1TB SSD,Apple Integrated GPU,Windows 11,2.59,68290
+Samsung,Samsung Galaxy Book,Gaming,2025,14.0,3840x2160,Intel Core i7,16,1TB HDD,NVIDIA GeForce RTX 4060,Windows 10,2.0,187938
+ASUS,ASUS ZenBook,2 in 1 Convertible,2026,17.3,2560x1440,Apple M3,8,1TB SSD,NVIDIA GeForce RTX 4060,Windows 11,1.31,198681
+Apple,Apple MacBook Air,Ultrabook,2025,13.3,1920x1080,Apple M2,16,256GB SSD,Intel Iris Xe Graphics,macOS,1.21,146514
+Apple,Apple MacBook Air,Workstation,2025,14.0,3840x2160,Apple M3,8,512GB SSD,NVIDIA GeForce GTX 1650,macOS,2.08,199981
+Samsung,Samsung Galaxy Book3,2 in 1 Convertible,2022,16.0,2560x1440,Apple M3,8,1TB SSD,NVIDIA GeForce GTX 1650,Linux,2.57,147887
+HP,HP 15s,2 in 1 Convertible,2024,17.3,1920x1200,Intel Core i5,16,512GB SSD,Intel Iris Xe Graphics,Windows 10,1.34,85006
+Samsung,Samsung Galaxy Book,Notebook,2021,13.3,3840x2160,Apple M1,16,256GB SSD,Intel UHD Graphics,Windows 11,2.67,104905
+Lenovo,Lenovo Legion,2 in 1 Convertible,2024,13.3,2560x1440,AMD Ryzen 7,16,512GB SSD,Intel UHD Graphics,Windows 10,1.55,117846
+Acer,Acer Predator,Ultrabook,2026,14.0,2560x1440,Apple M1,32,2TB SSD,NVIDIA GeForce RTX 4060,Linux,1.6,183958
+Dell,Dell Latitude,Workstation,2021,13.3,1920x1200,AMD Ryzen 9,8,512GB SSD + 1TB HDD,NVIDIA GeForce RTX 3050,Windows 11,1.24,155044
+HP,HP Pavilion,Workstation,2024,13.3,3840x2160,Apple M2,8,512GB SSD + 1TB HDD,Intel Iris Xe Graphics,Linux,1.24,134770
+Apple,Apple MacBook Pro,Gaming,2022,14.0,2560x1440,AMD Ryzen 5,16,1TB SSD,Intel Iris Xe Graphics,macOS,1.88,129318
+HP,HP 15s,Workstation,2024,14.0,3840x2160,Apple M2,16,256GB SSD,Intel UHD Graphics,Windows 11,1.55,136718
+ASUS,ASUS TUF Gaming,Notebook,2023,17.3,3840x2160,Apple M1,8,1TB SSD,NVIDIA GeForce RTX 4060,Windows 10,2.24,159086
+HP,HP Pavilion,Gaming,2023,15.6,1920x1200,Intel Core i5,8,512GB SSD + 1TB HDD,NVIDIA GeForce RTX 4060,Windows 10,2.13,137757
+ASUS,ASUS TUF Gaming,Notebook,2025,15.6,2560x1440,Intel Core i3,16,2TB SSD,Intel UHD Graphics,Windows 11,1.11,93634
+Acer,Acer Swift,Ultrabook,2026,13.3,1920x1080,AMD Ryzen 7,16,256GB SSD,NVIDIA GeForce RTX 3050,Windows 10,2.03,140674
+Lenovo,Lenovo Legion,Ultrabook,2022,14.0,2560x1600,AMD Ryzen 5,4,256GB SSD,Apple Integrated GPU,Linux,2.23,50794
+MSI,MSI Katana,2 in 1 Convertible,2022,15.6,1920x1200,Intel Core i7,32,256GB SSD,NVIDIA GeForce GTX 1650,Windows 11,2.46,132043
+Acer,Acer Swift,2 in 1 Convertible,2026,14.0,1920x1200,Intel Core i3,8,1TB HDD,Apple Integrated GPU,Windows 11,1.69,56443
+ASUS,ASUS VivoBook,Workstation,2026,15.6,2560x1600,AMD Ryzen 5,8,256GB SSD,AMD Radeon Graphics,Linux,1.78,73822
+Apple,Apple MacBook Air,Notebook,2021,13.3,2560x1600,AMD Ryzen 3,32,512GB SSD + 1TB HDD,Intel Iris Xe Graphics,macOS,2.11,96663
+Apple,Apple MacBook Pro,Notebook,2025,15.6,1920x1200,Intel Core i5,64,512GB SSD + 1TB HDD,NVIDIA GeForce GTX 1650,macOS,2.3,141027
+ASUS,ASUS TUF Gaming,Gaming,2024,13.3,2560x1600,Apple M3,8,512GB SSD + 1TB HDD,AMD Radeon Graphics,Windows 10,1.96,161926
+Apple,Apple MacBook Pro,Workstation,2026,14.0,2560x1440,Intel Core i7,8,1TB HDD,Intel Iris Xe Graphics,macOS,2.07,124653
+Dell,Dell Latitude,2 in 1 Convertible,2023,16.0,2560x1600,Apple M2,8,2TB SSD,NVIDIA GeForce RTX 3050,Linux,1.85,154501
+Samsung,Samsung Galaxy Book,Notebook,2026,15.6,3840x2160,Apple M1,8,2TB SSD,NVIDIA GeForce RTX 4060,Windows 11,2.49,180306
+Acer,Acer Swift,2 in 1 Convertible,2022,13.3,3840x2160,Intel Core i3,8,1TB HDD,Intel Iris Xe Graphics,Linux,1.8,58318
+ASUS,ASUS ROG,2 in 1 Convertible,2024,13.3,1920x1080,Intel Core i7,16,2TB SSD,NVIDIA GeForce RTX 4060,Linux,1.47,189174
+Samsung,Samsung Galaxy Book,Workstation,2025,17.3,2560x1440,Intel Core i5,8,512GB SSD,NVIDIA GeForce GTX 1650,Windows 10,2.11,93374
+MSI,MSI Prestige,Workstation,2022,15.6,1920x1200,AMD Ryzen 9,16,1TB SSD,NVIDIA GeForce GTX 1650,Windows 10,1.92,163919
+Samsung,Samsung Galaxy Book,Ultrabook,2026,13.3,3840x2160,AMD Ryzen 3,8,1TB SSD,AMD Radeon Graphics,Linux,1.36,73275
+Lenovo,Lenovo ThinkPad,Ultrabook,2021,13.3,2560x1440,AMD Ryzen 5,16,1TB HDD,NVIDIA GeForce RTX 3050,Linux,2.52,92381
+Dell,Dell G15,Workstation,2024,17.3,2560x1440,AMD Ryzen 5,4,1TB HDD,AMD Radeon Graphics,Windows 10,2.46,58613
+ASUS,ASUS TUF Gaming,2 in 1 Convertible,2024,14.0,2560x1440,AMD Ryzen 7,16,2TB SSD,AMD Radeon Graphics,Linux,2.66,134195
+Dell,Dell G15,2 in 1 Convertible,2025,14.0,2560x1440,Intel Core i3,16,2TB SSD,Intel UHD Graphics,Windows 10,1.41,85262
+Apple,Apple MacBook Air,2 in 1 Convertible,2024,13.3,2560x1600,AMD Ryzen 7,8,1TB HDD,AMD Radeon Graphics,macOS,1.13,124837
+Dell,Dell Latitude,Notebook,2022,14.0,1920x1200,Apple M3,16,256GB SSD,Intel UHD Graphics,Windows 11,2.16,139908
+Samsung,Samsung Galaxy Book,Workstation,2025,14.0,2560x1600,AMD Ryzen 9,32,1TB SSD,NVIDIA GeForce RTX 4060,Linux,2.13,237254
+HP,HP Pavilion,Ultrabook,2023,16.0,2560x1440,Intel Core i3,8,512GB SSD + 1TB HDD,AMD Radeon Graphics,Linux,1.23,55315
+ASUS,ASUS VivoBook,Gaming,2026,13.3,3840x2160,Apple M3,16,256GB SSD,NVIDIA GeForce RTX 3050,Windows 10,2.01,211838
+HP,HP ProBook,Ultrabook,2021,16.0,2560x1600,AMD Ryzen 9,32,1TB HDD,Intel UHD Graphics,Linux,1.84,160022
+Acer,Acer Predator,Gaming,2024,13.3,1920x1200,Apple M2,16,1TB SSD,AMD Radeon Graphics,Windows 10,2.6,143995
+MSI,MSI GF63,Gaming,2021,15.6,1920x1200,AMD Ryzen 5,16,1TB HDD,Intel Iris Xe Graphics,Linux,1.68,79767
+Acer,Acer Aspire,Workstation,2025,16.0,2560x1440,Intel Core i5,32,2TB SSD,Intel Iris Xe Graphics,Windows 10,2.39,129314
+Samsung,Samsung Galaxy Book3,Workstation,2021,15.6,1920x1200,Intel Core i9,8,2TB SSD,NVIDIA GeForce GTX 1650,Linux,1.73,164068
+Apple,Apple MacBook Pro,Gaming,2026,15.6,2560x1600,AMD Ryzen 5,16,1TB HDD,NVIDIA GeForce RTX 4060,macOS,1.49,176817
+ASUS,ASUS TUF Gaming,Workstation,2021,15.6,2560x1440,Intel Core i7,16,512GB SSD,Intel Iris Xe Graphics,Linux,2.76,100595
+Acer,Acer Aspire,Ultrabook,2022,17.3,1920x1080,AMD Ryzen 5,8,1TB SSD,Intel Iris Xe Graphics,Linux,1.57,62893
+Acer,Acer Swift,2 in 1 Convertible,2026,15.6,3840x2160,AMD Ryzen 9,32,256GB SSD,Intel UHD Graphics,Windows 11,1.91,183582
+Dell,Dell Latitude,Notebook,2024,17.3,1920x1080,Intel Core i5,8,1TB HDD,NVIDIA GeForce GTX 1650,Linux,1.36,88289
+Acer,Acer Aspire,Workstation,2022,14.0,3840x2160,AMD Ryzen 7,8,512GB SSD + 1TB HDD,NVIDIA GeForce RTX 3050,Windows 10,1.75,132253
+MSI,MSI GF63,Gaming,2025,14.0,1920x1200,Apple M2,16,256GB SSD,NVIDIA GeForce RTX 4060,Windows 11,2.22,180573
+Lenovo,Lenovo IdeaPad,Notebook,2022,15.6,2560x1440,AMD Ryzen 9,4,512GB SSD + 1TB HDD,NVIDIA GeForce RTX 4060,Windows 10,1.49,185582
+Samsung,Samsung Galaxy Book,2 in 1 Convertible,2026,14.0,3840x2160,AMD Ryzen 3,8,2TB SSD,Apple Integrated GPU,Linux,1.3,83683
+Lenovo,Lenovo Yoga,Gaming,2022,17.3,3840x2160,Intel Core i7,8,1TB SSD,Apple Integrated GPU,Linux,1.85,124679
+Acer,Acer Predator,2 in 1 Convertible,2023,13.3,3840x2160,AMD Ryzen 9,16,256GB SSD,NVIDIA GeForce GTX 1650,Windows 10,2.35,177891
+Dell,Dell Inspiron,Notebook,2022,17.3,2560x1600,Apple M2,32,256GB SSD,NVIDIA GeForce RTX 3050,Windows 10,2.4,153870
+Samsung,Samsung Galaxy Book3,Gaming,2022,16.0,1920x1080,AMD Ryzen 7,64,1TB HDD,NVIDIA GeForce RTX 4060,Linux,1.79,173260
+HP,HP Pavilion,Notebook,2023,17.3,2560x1440,AMD Ryzen 9,16,2TB SSD,AMD Radeon Graphics,Windows 10,1.87,171153
+Apple,Apple MacBook Air,Notebook,2024,16.0,2560x1440,Intel Core i3,32,512GB SSD + 1TB HDD,NVIDIA GeForce RTX 4060,macOS,1.42,164927
+Samsung,Samsung Galaxy Book3,Notebook,2021,16.0,2560x1440,Apple M1,8,1TB SSD,Intel Iris Xe Graphics,Linux,1.15,85322
+ASUS,ASUS ZenBook,2 in 1 Convertible,2023,13.3,1920x1200,Apple M1,16,256GB SSD,NVIDIA GeForce GTX 1650,Windows 11,2.71,108612
+Samsung,Samsung Galaxy Book3,2 in 1 Convertible,2025,14.0,2560x1440,AMD Ryzen 7,16,1TB HDD,Apple Integrated GPU,Windows 11,2.04,105284
+Lenovo,Lenovo IdeaPad,Gaming,2023,13.3,2560x1600,AMD Ryzen 7,16,512GB SSD + 1TB HDD,AMD Radeon Graphics,Linux,2.33,125721
+Samsung,Samsung Galaxy Book,2 in 1 Convertible,2024,16.0,3840x2160,AMD Ryzen 5,16,512GB SSD + 1TB HDD,AMD Radeon Graphics,Linux,2.69,97090
+ASUS,ASUS ROG,2 in 1 Convertible,2022,16.0,2560x1440,AMD Ryzen 7,32,1TB SSD,Intel UHD Graphics,Linux,2.78,130982
+Lenovo,Lenovo Legion,Workstation,2021,13.3,2560x1440,Apple M2,8,256GB SSD,AMD Radeon Graphics,Linux,2.65,88251
+Lenovo,Lenovo Legion,2 in 1 Convertible,2026,17.3,2560x1600,Intel Core i5,32,1TB SSD,NVIDIA GeForce GTX 1650,Windows 10,2.2,130955
+MSI,MSI GF63,Notebook,2026,17.3,1920x1080,AMD Ryzen 9,16,512GB SSD + 1TB HDD,Apple Integrated GPU,Windows 10,1.5,163213
+ASUS,ASUS VivoBook,Gaming,2024,14.0,2560x1440,Apple M3,64,256GB SSD,NVIDIA GeForce RTX 4060,Windows 10,2.64,225753
+Dell,Dell Latitude,Ultrabook,2023,17.3,2560x1440,Intel Core i7,16,512GB SSD + 1TB HDD,Intel Iris Xe Graphics,Linux,1.39,103293
+MSI,MSI Katana,Gaming,2024,16.0,2560x1600,Intel Core i7,32,1TB HDD,Intel Iris Xe Graphics,Windows 10,2.23,143183
+Acer,Acer Swift,2 in 1 Convertible,2021,15.6,2560x1440,AMD Ryzen 5,16,1TB SSD,NVIDIA GeForce RTX 3050,Windows 10,2.54,101263
+Samsung,Samsung Galaxy Book,2 in 1 Convertible,2022,13.3,2560x1600,AMD Ryzen 5,16,1TB SSD,NVIDIA GeForce RTX 3050,Linux,1.57,112272
+Dell,Dell G15,Workstation,2023,14.0,1920x1200,Intel Core i9,16,1TB SSD,NVIDIA GeForce RTX 3050,Linux,1.53,193379
+Lenovo,Lenovo IdeaPad,Gaming,2026,17.3,1920x1080,AMD Ryzen 3,16,1TB HDD,Apple Integrated GPU,Windows 10,2.35,66476
+Apple,Apple MacBook Pro,Ultrabook,2022,15.6,3840x2160,Apple M1,8,512GB SSD + 1TB HDD,AMD Radeon Graphics,macOS,1.54,132511
+Samsung,Samsung Galaxy Book3,2 in 1 Convertible,2026,14.0,1920x1200,Intel Core i5,32,256GB SSD,NVIDIA GeForce GTX 1650,Linux,2.74,118182
+Apple,Apple MacBook Air,Workstation,2024,15.6,2560x1600,Apple M1,4,1TB HDD,Intel UHD Graphics,macOS,1.75,113461
+Apple,Apple MacBook Air,Ultrabook,2026,17.3,2560x1600,Intel Core i3,8,512GB SSD + 1TB HDD,NVIDIA GeForce RTX 3050,macOS,2.2,117410
+Samsung,Samsung Galaxy Book3,Notebook,2026,16.0,2560x1600,Intel Core i7,16,256GB SSD,Intel UHD Graphics,Windows 11,1.27,109807
+MSI,MSI Prestige,Notebook,2023,16.0,1920x1200,Apple M1,16,512GB SSD + 1TB HDD,NVIDIA GeForce GTX 1650,Windows 10,2.52,114086
+Acer,Acer Aspire,Gaming,2026,13.3,2560x1600,AMD Ryzen 9,16,512GB SSD,NVIDIA GeForce GTX 1650,Windows 10,2.03,186564
+Dell,Dell G15,Workstation,2023,14.0,1920x1080,Intel Core i5,8,1TB HDD,Apple Integrated GPU,Windows 10,2.75,58828
+ASUS,ASUS ZenBook,Gaming,2025,14.0,1920x1200,Apple M1,8,512GB SSD + 1TB HDD,Intel Iris Xe Graphics,Linux,2.42,108921
+Dell,Dell Latitude,Ultrabook,2022,13.3,1920x1080,Apple M1,64,512GB SSD,AMD Radeon Graphics,Windows 11,1.13,116943
+Apple,Apple MacBook Air,Notebook,2022,13.3,3840x2160,Intel Core i7,8,1TB HDD,NVIDIA GeForce RTX 4060,macOS,1.91,185747
+Apple,Apple MacBook Air,2 in 1 Convertible,2024,15.6,3840x2160,Apple M2,16,2TB SSD,Intel UHD Graphics,macOS,2.19,186510
+Dell,Dell G15,Notebook,2024,13.3,2560x1440,Intel Core i5,16,2TB SSD,NVIDIA GeForce GTX 1650,Windows 11,1.65,115430
+Lenovo,Lenovo Yoga,Workstation,2025,17.3,2560x1440,Apple M1,16,1TB SSD,NVIDIA GeForce RTX 4060,Linux,1.6,161282
+MSI,MSI Modern,2 in 1 Convertible,2026,16.0,1920x1200,Apple M3,8,512GB SSD + 1TB HDD,NVIDIA GeForce RTX 4060,Windows 10,2.61,195779
+Samsung,Samsung Galaxy Book3,Ultrabook,2024,15.6,2560x1600,AMD Ryzen 5,16,1TB SSD,NVIDIA GeForce GTX 1650,Windows 11,2.27,104770
+HP,HP 15s,Workstation,2021,13.3,3840x2160,AMD Ryzen 5,16,512GB SSD,Apple Integrated GPU,Windows 10,2.73,88202
+HP,HP Victus,Workstation,2023,15.6,1920x1080,AMD Ryzen 7,32,2TB SSD,Apple Integrated GPU,Linux,1.63,137697
+ASUS,ASUS ZenBook,Gaming,2026,13.3,2560x1600,Intel Core i5,16,512GB SSD + 1TB HDD,AMD Radeon Graphics,Windows 10,2.08,107225
+Dell,Dell Latitude,Ultrabook,2021,14.0,1920x1080,AMD Ryzen 3,8,1TB SSD,AMD Radeon Graphics,Windows 11,2.06,43566
+Lenovo,Lenovo IdeaPad,Ultrabook,2021,15.6,2560x1440,Intel Core i9,16,1TB HDD,NVIDIA GeForce GTX 1650,Windows 10,1.73,154822
+HP,HP 15s,2 in 1 Convertible,2022,15.6,1920x1080,Apple M2,8,2TB SSD,Intel UHD Graphics,Linux,2.23,125957
+Samsung,Samsung Galaxy Book3,Gaming,2023,13.3,2560x1440,Apple M1,8,1TB SSD,Intel UHD Graphics,Windows 10,2.25,106717
+Acer,Acer Aspire,Ultrabook,2022,15.6,1920x1200,Apple M2,16,256GB SSD,Intel UHD Graphics,Windows 10,2.4,118520
+Acer,Acer Nitro,Ultrabook,2021,17.3,2560x1440,AMD Ryzen 7,4,512GB SSD,Intel Iris Xe Graphics,Linux,1.95,85653
+Apple,Apple MacBook Air,Gaming,2024,13.3,2560x1440,Intel Core i3,32,256GB SSD,NVIDIA GeForce GTX 1650,macOS,2.08,136394
+MSI,MSI Prestige,Gaming,2023,16.0,3840x2160,Intel Core i3,8,512GB SSD,AMD Radeon Graphics,Windows 11,1.25,84836
+ASUS,ASUS ROG,Gaming,2025,14.0,2560x1600,Intel Core i5,16,1TB SSD,NVIDIA GeForce GTX 1650,Linux,2.42,113251
+HP,HP Pavilion,Ultrabook,2023,13.3,1920x1200,Apple M3,16,512GB SSD,Apple Integrated GPU,Linux,1.54,149842
+Lenovo,Lenovo IdeaPad,2 in 1 Convertible,2022,17.3,3840x2160,Apple M3,32,1TB HDD,NVIDIA GeForce GTX 1650,Linux,2.26,189248
+Apple,Apple MacBook Pro,Workstation,2022,15.6,2560x1600,AMD Ryzen 9,16,2TB SSD,NVIDIA GeForce GTX 1650,macOS,1.2,211312
+HP,HP ProBook,Workstation,2024,13.3,1920x1080,Intel Core i3,16,1TB SSD,AMD Radeon Graphics,Windows 10,2.11,74299
+Dell,Dell G15,Notebook,2025,14.0,3840x2160,AMD Ryzen 5,16,1TB HDD,NVIDIA GeForce RTX 3050,Windows 10,1.87,129286
+HP,HP Pavilion,Ultrabook,2021,17.3,3840x2160,AMD Ryzen 9,8,512GB SSD + 1TB HDD,NVIDIA GeForce GTX 1650,Windows 10,1.72,155634
+MSI,MSI GF63,Notebook,2026,15.6,1920x1080,Apple M3,16,1TB SSD,NVIDIA GeForce RTX 4060,Windows 10,2.05,214333
